@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">Инжинерный калькулятор</string>
+
+    <string name="x_2">
+        <![CDATA[<center>
+            <small>
+                x<small><sup>2</sup></small>
+            </small>
+        </center>]]>
+    </string>
+    <string name="x_3">
+        <![CDATA[<center>
+            <small>
+                x<small><sup>3</sup></small>
+            </small>
+        </center>]]>
+    </string>
+    <string name="x_y">
+        <![CDATA[<center>
+            <small>
+                x<small><sup>y</sup></small>
+            </small>
+        </center>]]>
+    </string>
+    <string name="koren_2x">
+        <![CDATA[<center>
+            <small>
+                √x
+            </small>
+        </center>]]>
+    </string>
+    <string name="koren_3x">
+        <![CDATA[<center>
+            <small>
+                <small>
+                    <small><sup>3</sup></small>√x
+                </small>
+            </small>
+        </center>]]>
+    </string>
+    <string name="koren_yx">
+        <![CDATA[<center>
+            <small>
+                <small>
+                    <small><sup>y</sup></small>√x
+                </small>
+            </small>
+        </center>]]>
+    </string>
+
+    <string name="sin_x">
+        <![CDATA[<center>
+            <small>
+                <small>
+                    <small>sin(x)</small>
+                </small>
+            </small>
+        </center>]]>
+    </string>
+    <string name="cos_x">
+        <![CDATA[<center>
+            <small>
+                <small>
+                    <small>cos(x)</small>
+                </small>
+            </small>
+        </center>]]>
+    </string>
+    <string name="tan_x">
+        <![CDATA[<center>
+            <small>
+                <small>
+                    <small>tg(x)</small>
+                </small>
+            </small>
+        </center>]]>
+    </string>
+    <string name="ctg_x">
+        <![CDATA[<center>
+            <small>
+                <small>
+                    <small>ctg(x)</small>
+                </small>
+            </small>
+        </center>]]>
+    </string>
+    <string name="sec_x">
+        <![CDATA[<center>
+            <small>
+                <small>
+                    <small>sec(x)</small>
+                </small>
+            </small>
+        </center>]]>
+    </string>
+    <string name="cosec_x">
+        <![CDATA[<center>
+            <small>
+                <small>
+                    <small><small>cosec(x)</small></small>
+                </small>
+            </small>
+        </center>]]>
+    </string>
+    <string name="log_x_y">
+        <![CDATA[<center>
+            <small>
+                <small>
+                    <small><small>log<small><sub>y</sub></small>x</small></small>
+                </small>
+            </small>
+        </center>]]>
+    </string>
+    <string name="ln_x">
+        <![CDATA[<center>
+            <small>
+                <small>
+                    <small>ln(x)</small>
+                </small>
+            </small>
+        </center>]]>
+    </string>
+
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="del_one_str"><![CDATA[<]]></string>
+</resources>
