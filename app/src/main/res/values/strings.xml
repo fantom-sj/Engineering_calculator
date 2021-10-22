@@ -38,11 +38,11 @@
             </small>
         </center>]]>
     </string>
-    <string name="koren_yx">
+    <string name="exp_x">
         <![CDATA[<center>
             <small>
                 <small>
-                    <small><sup>y</sup></small>√x
+                    exp
                 </small>
             </small>
         </center>]]>
@@ -52,7 +52,7 @@
         <![CDATA[<center>
             <small>
                 <small>
-                    <small>sin(x)</small>
+                    sin
                 </small>
             </small>
         </center>]]>
@@ -61,7 +61,7 @@
         <![CDATA[<center>
             <small>
                 <small>
-                    <small>cos(x)</small>
+                    <small>cos</small>
                 </small>
             </small>
         </center>]]>
@@ -70,7 +70,7 @@
         <![CDATA[<center>
             <small>
                 <small>
-                    <small>tg(x)</small>
+                    <small>tg</small>
                 </small>
             </small>
         </center>]]>
@@ -79,7 +79,7 @@
         <![CDATA[<center>
             <small>
                 <small>
-                    <small>ctg(x)</small>
+                    <small>ctg</small>
                 </small>
             </small>
         </center>]]>
@@ -88,7 +88,7 @@
         <![CDATA[<center>
             <small>
                 <small>
-                    <small>sec(x)</small>
+                    <small>sec</small>
                 </small>
             </small>
         </center>]]>
@@ -97,16 +97,16 @@
         <![CDATA[<center>
             <small>
                 <small>
-                    <small><small>cosec(x)</small></small>
+                    <small><small>cosec</small></small>
                 </small>
             </small>
         </center>]]>
     </string>
-    <string name="log_x_y">
+    <string name="log10_x">
         <![CDATA[<center>
             <small>
                 <small>
-                    <small><small>log<small><sub>y</sub></small>x</small></small>
+                    <small><small>log<small><sub>10</sub></small>x</small></small>
                 </small>
             </small>
         </center>]]>
@@ -115,7 +115,7 @@
         <![CDATA[<center>
             <small>
                 <small>
-                    <small>ln(x)</small>
+                    <small>ln</small>
                 </small>
             </small>
         </center>]]>
